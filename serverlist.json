@@ -1,20 +1,112 @@
 [
     {
         "count": 0,
-        "title": "Dhaka FTP",
+        "title": "Circle FTP",
         "type":"Movie",
-        "url": "https://facebook.com/"
+        "url": "http://circleftp.net/"
     },
     {
         "count": 1,
         "title": "BAS Network",
         "type":"Movie",
-        "url": "https://youtube.com/"
+        "url": "http://movie.basnetbd.com/"
     },
     {
         "count": 2,
-        "title": "BD TV Live",
-        "type":"TV",
-        "url": "http://bdtv.live/"
+        "title": "Ebox Live",
+        "type":"FTP",
+        "url": "http://fs.ebox.live/"
     },
+    {
+        "count": 2,
+        "title": "Ebox Live",
+        "type":"TV",
+        "url": "http://tv.ebox.live/"
+    },
+     {
+        "count": 2,
+        "title": "Discovery Movie",
+        "type":"Movie",
+        "url": "http://dflix.discoveryftp.net/login"
+    },
+    {
+        "count": 2,
+        "title": "Bossnet BD",
+        "type":"FTP",
+        "url": "http://cdn1.bossbd.net/"
+    },
+    {
+        "count": 2,
+        "title": "Net@Home",
+        "type":"FTP",
+        "url": "https://www.netathomebd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Sam Online",
+        "type":"Movie",
+        "url": "http://movie.sambd.net/"
+    },
+     {
+        "count": 2,
+        "title": "FTPBD",
+        "type":"FTP",
+        "url": "http://ftpbd.net/"
+    },
+    {
+        "count": 2,
+        "title": "AlphaMediaZone",
+        "type":"FTP",
+        "url": "http://alphamediazone.com/"
+    },
+    {
+        "count": 2,
+        "title": "JDIX",
+        "type":"FTP",
+        "url": "http://162.12.215.254/"
+    },
+    {
+        "count": 2,
+        "title": "UNIQ BD",
+        "type":"Movie",
+        "url": "http://uniqbd.net/web/"
+    },
+     {
+        "count": 2,
+        "title": "ShowTime",
+        "type":"Movie",
+        "url": "http://showtimebd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Elaach",
+        "type":"FTP",
+        "url": "https://elaach.com/"
+    },
+    {
+        "count": 2,
+        "title": "NaturalBD",
+        "type":"Movie",
+        "url": "http://naturalbd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Tejpata TV",
+        "type":"TV",
+        "url": "http://tv.tajpata.com/"
+    },
+     {
+        "count": 2,
+        "title": "VDO Mela",
+        "type":"FTP",
+        "url": "http://vdomela.com/"
+    },
+    {
+        "count": 2,
+        "title": "Kurigraam",
+        "type":"FTP",
+        "url": "http://103.119.100.54/"
+    },
+
+
 ]
