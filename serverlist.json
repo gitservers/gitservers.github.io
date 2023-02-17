@@ -181,105 +181,105 @@
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "BDLan",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://www.bdlan.net/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "ICC",
+        "type":"FTP",
+        "url": "http://10.16.100.244/"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "Sam FTP",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://172.16.50.4/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "Timepass FTP",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://www.timepassbd.live/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
+        "title": "BDIPTV",
         "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "url": "http://www.bdiptv.com/"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "BDIX FTP",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://45.120.114.222/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
-        "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "title": "BDIX Sports TV",
+        "type":"TV",
+        "url": "http://103.114.36.14/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
-        "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "title": "Bangla Flix",
+        "type":"Movie",
+        "url": "http://banglaflix.com.bd/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "Bornali Network",
+        "type":"Movie",
+        "url": "http://103.112.63.21"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "Generic FTP",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://103.229.18.142"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "Beflix Index",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://www.beeflix.biz/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "WOW Movie",
+        "type":"Movie",
+        "url": "http://172.27.27.84/"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "Halum Net",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://halum.net/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "Hatemtai",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://hatemtai.net/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "AVI Station",
+        "type":"Movie",
+        "url": "http://103.134.58.242//"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
-        "type":"FTP",
-        "url": "http://vdomela.com/"
+        "title": "Generic TV",
+        "type":"TV",
+        "url": "http://44.44.44.5/tv/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
-        "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "title": "Tufan Live",
+        "type":"TV",
+        "url": "http://tufan.live/"
     },
 
 
