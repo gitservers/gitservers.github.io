@@ -390,62 +390,62 @@
     },
     {
         "count": 2,
-        "title": "CandyBD",
+        "title": "Lalbatti",
         "type":"FTP",
-        "url": "http://www.candybd.net/"
+        "url": "http://www.lalbatte.net/"
     },
     {   "count": 0,
-        "title": "Chaya Chobi",
+        "title": "NowHDTime",
         "type":"Movie",
-        "url": "http://chayachobi.net/"
+        "url": "https://nowhdtime.com.bd/"
     },
     {
         "count": 1,
-        "title": "Cine Bioscope",
+        "title": "Crazy HD",
         "type":"Movie",
-        "url": "http://www.cinebioscope.com/"
+        "url": "http://crazyhd.com/"
     },
     {
         "count": 2,
-        "title": "CiTech Movies",
-        "type":"Movie",
-        "url": "http://203.83.177.225/"
-    },
-    {
-        "count": 2,
-        "title": "Dhaka Movie",
-        "type":"Movie",
-        "url": "http://www.dhakamovie.com/"
-    },
-     {
-        "count": 2,
-        "title": "DN FTP",
-        "type":"FTP",
-        "url": "http://www.dnftpbd.com/"
-    },
-    {
-        "count": 2,
-        "title": "Dugdugi Live",
+        "title": "Unix TV",
         "type":"TV",
-        "url": "http://dugdugilive.com/"
+        "url": "http://30.30.30.30/"
     },
     {
         "count": 2,
-        "title": "Furious Net",
-        "type":"FTP",
-        "url": "http://ftp.furiousnet.net/"
-    },
-    {
-        "count": 2,
-        "title": "IntroVision",
-        "type":"FTP",
-        "url": "http://cdn.theintrovision.com/TheIntrovision/DownloadServer1/"
+        "title": "BCIPTV",
+        "type":"TV",
+        "url": "http://bciptv.net/"
     },
      {
         "count": 2,
-        "title": "FlixHUB",
-        "type":"Movie",
-        "url": "http://flixhub.net/"
+        "title": "BD IPTV",
+        "type":"TV",
+        "url": "http://bdiptv.net/"
+    },
+    {
+        "count": 2,
+        "title": "HoiHullor",
+        "type":"TV",
+        "url": "http://live.hoihulloor.com/"
+    },
+    {
+        "count": 2,
+        "title": "DhakaFlix TV",
+        "type":"TV",
+        "url": "http://live1.dhakaflix.com/"
+    },
+    {
+        "count": 2,
+        "title": "DhakaFlix TV 2",
+        "type":"TV",
+        "url": "http://172.16.50.22/"
+    },
+     {
+        "count": 2,
+        "title": "NowHD TV",
+        "type":"TV",
+        "url": "https://nowhdtime.com.bd/live-tv.html"
     }, 
 
 
