@@ -109,75 +109,75 @@
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "ABC Movies",
+        "type":"Movie",
+        "url": "http://103.103.239.66/"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "Dhaka FTP",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://dhakaftp.com/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
-        "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "title": "Explore Online",
+        "type":"Movie",
+        "url": "http://103.222.20.150/"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "Info Internet",
+        "type":"Movie",
+        "url": "http://103.85.197.10"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
-        "type":"FTP",
-        "url": "http://vdomela.com/"
+        "title": "Khulna Plex",
+        "type":"Movie",
+        "url": "http://khulnaplex.net/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "MojarFTP",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://www.mojarftp.com"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "NetMatrix",
+        "type":"Movie",
+        "url": "http://media.netmatrixbd.com"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
-        "type":"FTP",
-        "url": "http://vdomela.com/"
+        "title": "Surjo Mama",
+        "type":"Movie",
+        "url": "http://103.85.235.254/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "Unique FTP",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://103.91.144.230/"
     },
     {
         "count": 2,
-        "title": "Kurigraam",
+        "title": "Alive Network",
         "type":"FTP",
-        "url": "http://103.119.100.54/"
+        "url": "http://172.127.27.102"
     },
         {
         "count": 2,
-        "title": "Tejpata TV",
-        "type":"TV",
-        "url": "http://tv.tajpata.com/"
+        "title": "AliveNet Bogura",
+        "type":"FTP",
+        "url": "http://103.135.134.226"
     },
      {
         "count": 2,
-        "title": "VDO Mela",
+        "title": "BDBroadband",
         "type":"FTP",
-        "url": "http://vdomela.com/"
+        "url": "http://www.bdbroadband.com/ftp/"
     },
     {
         "count": 2,
