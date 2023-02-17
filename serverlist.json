@@ -107,7 +107,7 @@
         "type":"FTP",
         "url": "http://103.119.100.54/"
     },
-        {
+    {
         "count": 2,
         "title": "ABC Movies",
         "type":"Movie",
@@ -125,7 +125,7 @@
         "type":"Movie",
         "url": "http://103.222.20.150/"
     },
-        {
+    {
         "count": 2,
         "title": "Info Internet",
         "type":"Movie",
@@ -167,7 +167,7 @@
         "type":"FTP",
         "url": "http://172.127.27.102"
     },
-        {
+    {
         "count": 2,
         "title": "AliveNet Bogura",
         "type":"FTP",
@@ -446,7 +446,7 @@
         "title": "NowHD TV",
         "type":"TV",
         "url": "https://nowhdtime.com.bd/live-tv.html"
-    }, 
+    }
 
 
 ]
