@@ -143,7 +143,7 @@
         "type":"FTP",
         "url": "http://www.mojarftp.com"
     },
-        {
+    {
         "count": 2,
         "title": "NetMatrix",
         "type":"Movie",
@@ -185,7 +185,7 @@
         "type":"FTP",
         "url": "http://www.bdlan.net/"
     },
-        {
+    {
         "count": 2,
         "title": "ICC",
         "type":"FTP",
@@ -203,7 +203,7 @@
         "type":"FTP",
         "url": "http://www.timepassbd.live/"
     },
-        {
+    {
         "count": 2,
         "title": "BDIPTV",
         "type":"TV",
@@ -227,7 +227,7 @@
         "type":"Movie",
         "url": "http://banglaflix.com.bd/"
     },
-        {
+    {
         "count": 2,
         "title": "Bornali Network",
         "type":"Movie",
@@ -245,7 +245,7 @@
         "type":"FTP",
         "url": "http://www.beeflix.biz/"
     },
-        {
+    {
         "count": 2,
         "title": "WOW Movie",
         "type":"Movie",
@@ -263,13 +263,13 @@
         "type":"FTP",
         "url": "http://hatemtai.net/"
     },
-        {
+    {
         "count": 2,
         "title": "AVI Station",
         "type":"Movie",
         "url": "http://103.134.58.242//"
     },
-     {
+    {
         "count": 2,
         "title": "Generic TV",
         "type":"TV",
@@ -281,6 +281,172 @@
         "type":"TV",
         "url": "http://tufan.live/"
     },
+    {   
+        "count": 0,
+        "title": "AmrBD",
+        "type":"TV",
+        "url": "http://amrbd.com/"
+    },
+    {
+        "count": 1,
+        "title": "BinodonMela",
+        "type":"Movie",
+        "url": "http://binodonmela.net/"
+    },
+    {
+        "count": 2,
+        "title": "Cnet FTP",
+        "type":"FTP",
+        "url": "http://144.48.110.190:8080/"
+    },
+    {
+        "count": 2,
+        "title": "CTG Flix",
+        "type":"Movie",
+        "url": "http://www.ctgflix.com/"
+    },
+     {
+        "count": 2,
+        "title": "CTG Hall",
+        "type":"Movie",
+        "url": "http://www.ctghall.com/"
+    },
+    {
+        "count": 2,
+        "title": "CTG Hub",
+        "type":"FTP",
+        "url": "https://ctghub.com/"
+    },
+    {
+        "count": 2,
+        "title": "Movie Server CTG",
+        "type":"Movie",
+        "url": "http://www.movieserver.net/"
+    },
+    {
+        "count": 2,
+        "title": "CTG IPTV",
+        "type":"TV",
+        "url": "http://www.ctgiptv.com/"
+    },
+    {
+        "count": 2,
+        "title": "CandyBD",
+        "type":"FTP",
+        "url": "http://www.candybd.net/"
+    },
+    {   "count": 0,
+        "title": "Chaya Chobi",
+        "type":"Movie",
+        "url": "http://chayachobi.net/"
+    },
+    {
+        "count": 1,
+        "title": "Cine Bioscope",
+        "type":"Movie",
+        "url": "http://www.cinebioscope.com/"
+    },
+    {
+        "count": 2,
+        "title": "CiTech Movies",
+        "type":"Movie",
+        "url": "http://203.83.177.225/"
+    },
+    {
+        "count": 2,
+        "title": "Dhaka Movie",
+        "type":"Movie",
+        "url": "http://www.dhakamovie.com/"
+    },
+     {
+        "count": 2,
+        "title": "DN FTP",
+        "type":"FTP",
+        "url": "http://www.dnftpbd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Dugdugi Live",
+        "type":"TV",
+        "url": "http://dugdugilive.com/"
+    },
+    {
+        "count": 2,
+        "title": "Furious Net",
+        "type":"FTP",
+        "url": "http://ftp.furiousnet.net/"
+    },
+    {
+        "count": 2,
+        "title": "IntroVision",
+        "type":"FTP",
+        "url": "http://cdn.theintrovision.com/TheIntrovision/DownloadServer1/"
+    },
+     {
+        "count": 2,
+        "title": "FlixHUB",
+        "type":"Movie",
+        "url": "http://flixhub.net/"
+    },
+    {
+        "count": 2,
+        "title": "CandyBD",
+        "type":"FTP",
+        "url": "http://www.candybd.net/"
+    },
+    {   "count": 0,
+        "title": "Chaya Chobi",
+        "type":"Movie",
+        "url": "http://chayachobi.net/"
+    },
+    {
+        "count": 1,
+        "title": "Cine Bioscope",
+        "type":"Movie",
+        "url": "http://www.cinebioscope.com/"
+    },
+    {
+        "count": 2,
+        "title": "CiTech Movies",
+        "type":"Movie",
+        "url": "http://203.83.177.225/"
+    },
+    {
+        "count": 2,
+        "title": "Dhaka Movie",
+        "type":"Movie",
+        "url": "http://www.dhakamovie.com/"
+    },
+     {
+        "count": 2,
+        "title": "DN FTP",
+        "type":"FTP",
+        "url": "http://www.dnftpbd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Dugdugi Live",
+        "type":"TV",
+        "url": "http://dugdugilive.com/"
+    },
+    {
+        "count": 2,
+        "title": "Furious Net",
+        "type":"FTP",
+        "url": "http://ftp.furiousnet.net/"
+    },
+    {
+        "count": 2,
+        "title": "IntroVision",
+        "type":"FTP",
+        "url": "http://cdn.theintrovision.com/TheIntrovision/DownloadServer1/"
+    },
+     {
+        "count": 2,
+        "title": "FlixHUB",
+        "type":"Movie",
+        "url": "http://flixhub.net/"
+    }, 
 
 
 ]
