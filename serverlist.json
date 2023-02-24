@@ -1,6 +1,12 @@
 [
     {
         "count": 0,
+        "title": "Cinebox",
+        "type":"Movie",
+        "url": "https://cinebox4k.com/"
+    },
+    {
+        "count": 0,
         "title": "Circle FTP",
         "type":"Movie",
         "url": "http://circleftp.net/"
