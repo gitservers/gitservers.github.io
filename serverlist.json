@@ -488,8 +488,38 @@
         "title": "Khulna Flix",
         "type":"Movie",
         "url": "http://khulnaflix.net"
+    },
+    {
+        "count": 2,
+        "title": "City Cloud",
+        "type":"FTP",
+        "url": "http://103.204.244.70/"
+    },
+    {
+        "count": 2,
+        "title": "Nagordola",
+        "type":"FTP",
+        "url": "http://103.106.238.74"
+    },
+    {
+        "count": 2,
+        "title": "Unique Internet",
+        "type":"FTP",
+        "url": "http://103.91.144.230"
+    },
+    {
+        "count": 2,
+        "title": "Metro Media",
+        "type":"Movie",
+        "url": "http://metromedia.digital"
+    },
+    {
+        "count": 2,
+        "title": "Link FTP",
+        "type":"FTP",
+        "url": "http://cdn.linkftp.com"
     }
-    
+     
     
 
 
