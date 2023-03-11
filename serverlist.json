@@ -452,6 +452,12 @@
         "title": "NowHD TV",
         "type":"TV",
         "url": "https://nowhdtime.com.bd/live-tv.html"
+    },
+    {
+        "count": 2,
+        "title": "Ihub Live",
+        "type":"Movie",
+        "url": "https://http://ihub.live/"
     }
 
 
