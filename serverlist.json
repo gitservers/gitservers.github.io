@@ -458,7 +458,39 @@
         "title": "Ihub Live",
         "type":"Movie",
         "url": "http://ihub.live/"
+    },
+    {
+        "count": 2,
+        "title": "Quick Online",
+        "type":"FTP",
+        "url": "http://quickonlineftp.com/"
+    },
+    {
+        "count": 2,
+        "title": "DFNBD",
+        "type":"FTP",
+        "url": "http://bn.dfnbd.net/"
+    },
+    {
+        "count": 2,
+        "title": "SparkNet BD",
+        "type":"All",
+        "url": "https://sparknetbd.com"
+    },
+    {
+        "count": 2,
+        "title": "Abohoman TV",
+        "type":"TV",
+        "url": "https://abohomanbangla.com/Bangladesh_web_directory/Bangla_Tv.html"
+    },
+    {
+        "count": 2,
+        "title": "Khulna Flix",
+        "type":"Movie",
+        "url": "http://khulnaflix.net"
     }
+    
+    
 
 
 ]
