@@ -518,8 +518,56 @@
         "title": "Link FTP",
         "type":"FTP",
         "url": "http://cdn.linkftp.com"
+    },
+    {
+        "count": 2,
+        "title": "ABI Station",
+        "type":"Movie",
+        "url": "http://abistation.net/"
+    },
+    {
+        "count": 2,
+        "title": "Dnet FTP",
+        "type":"FTP",
+        "url": "http://103.76.196.90/"
+    },
+    {
+        "count": 2,
+        "title": "Takis",
+        "type":"All",
+        "url": "http://tokis.xyz/"
+    },
+    {
+        "count": 2,
+        "title": "FTP2Web",
+        "type":"FTP",
+        "url": "http://ftp2web.com/"
+    },
+    {
+        "count": 2,
+        "title": "CMCL FTP",
+        "type":"FTP",
+        "url": "http://103.102.136.106/ftp/"
+    },
+    {
+        "count": 2,
+        "title": "MCNBD",
+        "type":"FTP",
+        "url": "http://ftp.mcnbd.com/"
+    },
+    {
+        "count": 2,
+        "title": "Adharalo",
+        "type":"Movie",
+        "url": "http://adharalo.com/"
+    },
+    {
+        "count": 2,
+        "title": "Timenai",
+        "type":"Movie",
+        "url": "http://www.timenai.com/"
     }
-     
+    
     
 
 
