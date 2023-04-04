@@ -566,6 +566,12 @@
         "title": "Timenai",
         "type":"Movie",
         "url": "http://www.timenai.com/"
+    },
+    {
+        "count": 2,
+        "title": "Mazeda FTP",
+        "type":"FTP",
+        "url": "http://ftpweb.mazedanetworks.net/"
     }
     
     
